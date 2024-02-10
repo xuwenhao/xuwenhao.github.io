@@ -5,6 +5,12 @@ title: "蒸汽与魔法"
 
 # Tomorrow You Start Building Tomorrow
 
+Per my personal experience, Medium is no longer a great place to host blogs/essays. 
+
+And considering the local-first requirements, now I will use jekyll for my personal website. 
+
+Will try to migrate history essays I thought valuable manually. Now you could still read them from my [Medium](https://medium.com/@xuwenhao).
+
 ## Articles
 
 * [New Eassays](essays)
