@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 摒弃ROI思维，Do Things Don't Scale
+date: 2024-02-10
+title: "摒弃ROI思维，Do Things Don't Scale"
 ---
 
 在工作中收到一些训练之后，我们总是习惯于开始考虑做每个事情的ROI和Scale。去年重新投入创业干AI这个新的事情开始，和团队一起脑爆了非常多的Idea。但是其中有大量盘算了一下，都觉得“划不来”就没有往下走。包括看很多别的创业者项目的时候，也往往会基于ROI和是否方便Scale来做判断。
