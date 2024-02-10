@@ -1,2 +1,2 @@
 theme: jekyll-theme-modernist
-permalink: /:categories/:year/:month/:title/
+permalink: /:categories/:year/:month/:day/:title/
