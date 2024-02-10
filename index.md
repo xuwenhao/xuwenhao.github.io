@@ -11,9 +11,19 @@ And considering the local-first requirements, now I will use jekyll for my perso
 
 Will try to migrate history essays I thought valuable manually. Now you could still read them from my [Medium](https://medium.com/@xuwenhao).
 
+## Recent Posts
+
+<ul>
+{% for post in site.posts reversed limit:5 %}
+  <li>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
 ## Articles
 
-* [New Eassays](essays)
+* [Essays](essays)
 * [History Articles @ Medium](https://medium.com/@xuwenhao)
 * AI炼金术 @ 公众号
 
